@@ -171,7 +171,7 @@ Example:
 git@github.com:KUBAHO3/Hello-Microverse.git
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-👤 **Author1**
+
 ## :busts_in_silhouette: Authors <a name="authors"></a>
 :bust_in_silhouette: **KUBAHO LINNE Heaven**
 - GitHub: [@KUBAHO3](https://github.com/KUBAHO3)
@@ -179,9 +179,9 @@ git@github.com:KUBAHO3/Hello-Microverse.git
 - LinkedIn: [Kubaho Linne Heaven](https://www.linkedin.com/in/kubaho-linne-heaven-78ab37208/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- FUTURE FEATURES -->
-## :telescope: Future Features <a name="future-features"></a>
-- [ ] **making it responsive**
-- [ ] **Adding Animation**
+## :telescope: Future Features <a name="future-features"></a><br/>
+- [ ] **making it responsive**<br/>
+- [ ] **Adding Animation**<br/>
 - [ ] **Making it dynamic**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
