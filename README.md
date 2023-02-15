@@ -62,42 +62,37 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> 
+This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also add & display a simple HTML text and basic CSS styling.
 
-**Hello Microverse** is a...
+**Hello Microverse** is a simple massage for linter practice
 
-## 🛠 Built With <a name="built-with"></a>
-
+## :hammer_and_wrench: Built With <a name="built-with"></a>
+- HTML
+- CSS
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
+<details>
+  <summary>Version Control</summary>
+  <ul>
+    <li><a href="https://github.com/">Git Hub</a></li>
+  </ul>
+</details>
+<details>
+  <summary>Visual Studio Code</summary>
+  <ul>
+    <li><a href="https://code.visualstudio.com">Visual Studio Code</a></li>
+  </ul>
+</details>
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://html.com/html5/">HTML5</a></li>
+    <li><a href="https://www.css3.com/">CSS</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Linters SetUp**
 - **Follow HTML and CSS best practice**
@@ -176,9 +171,9 @@ Example:
 git@github.com:KUBAHO3/Hello-Microverse.git
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- AUTHORS -->
+👤 **Author1**
 ## :busts_in_silhouette: Authors <a name="authors"></a>
-:bust_in_silhouette: **Gladwin Tshepo Ramantso**
+:bust_in_silhouette: **KUBAHO LINNE Heaven**
 - GitHub: [@KUBAHO3](https://github.com/KUBAHO3)
 - Twitter: [@KubahoH](https://twitter.com/KubahoH)
 - LinkedIn: [Kubaho Linne Heaven](https://www.linkedin.com/in/kubaho-linne-heaven-78ab37208/)
@@ -213,7 +208,7 @@ I would like to thank Microverse for this exercise.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/KUBAHO3/Hello-Microverse/new/main) licensed.
+This project is [MIT](https://github.com/KUBAHO3/Hello-Microverse/blob/9bb2466dff4609dace08f33c570006f92f4d8619/license) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
