@@ -186,7 +186,7 @@ git@github.com:KUBAHO3/Hello-Microverse.git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 ## :handshake: Contributing <a name="contributing"></a>
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!<br/>
 Feel free to check the [git@github.com:KUBAHO3/Hello-Microverse.git](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- SUPPORT -->
@@ -198,10 +198,10 @@ If you like this project please follow me on github & twitter and also connect o
 I would like to thank Microverse for this exercise.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- FAQ (optional) -->
-## :question: FAQ (OPTIONAL) <a name="faq"></a>
-- **[Question_1]**
-  - [Answer_1]
-- **[Question_2]**
+## :question: FAQ (OPTIONAL) <a name="faq"></a><br/>
+- **[Question_1]**<br/>
+  - [Answer_1]<br/>
+- **[Question_2]**<br/>
   - [Answer_2]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
