@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://mydeployedapplicationlink.com)
+- [Live Demo Link](git@github.com:KUBAHO3/Hello-Microverse.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,7 +173,7 @@ You can deploy this project using:
 GitHub Pages
 Example:
 ```sh
-https://KUBAHO3.github.io/Hello-Microverse/
+git@github.com:KUBAHO3/Hello-Microverse.git
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
@@ -192,7 +192,7 @@ https://KUBAHO3.github.io/Hello-Microverse/
 <!-- CONTRIBUTING -->
 ## :handshake: Contributing <a name="contributing"></a>
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [https://github.com/KUBAHO3/Hello-Microverse/issues](../../issues/).
+Feel free to check the [git@github.com:KUBAHO3/Hello-Microverse.git](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- SUPPORT -->
 ## :star:️ Show your support <a name="support"></a>
@@ -213,7 +213,7 @@ I would like to thank Microverse for this exercise.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/KUBAHO3/Hello-Microverse/new/main) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
